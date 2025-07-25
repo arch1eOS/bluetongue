@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0" version="28.0.6">
   <diagram name="Page-1" id="zDdUZ-FA3EZwhz1xp4En">
-    <mxGraphModel dx="133" dy="85" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="1073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,11 +24,11 @@
         <mxCell id="cXflRYodfnQ1DScUz4Ab-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;absoluteArcSize=1;strokeColor=#8A8A8A;fillColor=#E8E8E8;" vertex="1" parent="1">
           <mxGeometry x="320" y="10" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="cXflRYodfnQ1DScUz4Ab-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;absoluteArcSize=1;strokeColor=#677AA1;fillColor=#96B1E8;" vertex="1" parent="1">
-          <mxGeometry x="300" y="80" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="cXflRYodfnQ1DScUz4Ab-15" value="&lt;div align=&quot;left&quot;&gt;WAN&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;absoluteArcSize=1;strokeColor=#BDA95E;fillColor=#E8D071;align=left;textDirection=vertical-lr;textOpacity=40;" vertex="1" parent="1">
           <mxGeometry x="300" y="25" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cXflRYodfnQ1DScUz4Ab-17" value="&lt;div align=&quot;left&quot;&gt;LAN&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;absoluteArcSize=1;strokeColor=#677AA1;fillColor=#96B1E8;align=left;textDirection=vertical-lr;textOpacity=40;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="80" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
